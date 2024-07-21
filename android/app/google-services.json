@@ -1,0 +1,237 @@
+{
+  "project_info": {
+    "project_number": "517070513230",
+    "firebase_url": "https://mouapp-3d466.firebaseio.com",
+    "project_id": "mouapp-3d466",
+    "storage_bucket": "mouapp-3d466.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517070513230:android:2891245c9f68a249d14f1f",
+        "android_client_info": {
+          "package_name": "com.mou.business"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "517070513230-3o9607n9tlp6bdcmlbv80r4q0kd552h4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mou.business",
+            "certificate_hash": "61f4f7cb5aeca066e257d0dfa596494d2bfe311d"
+          }
+        },
+        {
+          "client_id": "517070513230-fcmrghlm42qh91fuids766p8llrehg2v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mou.business",
+            "certificate_hash": "2efac8b5c04fd7c9ebf3747e47cfd4ecdf44c843"
+          }
+        },
+        {
+          "client_id": "517070513230-k50ojchjou2a37kce40br76ccgf6vi4a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mou.business",
+            "certificate_hash": "c86fba0be5f84c5ed38d50e3c66c37033e4f4e6e"
+          }
+        },
+        {
+          "client_id": "517070513230-nttkqbps2n9li0rq640p6jp8ot32n95o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mou.business",
+            "certificate_hash": "d5892b9540a1318291f7fb28c767960965786e18"
+          }
+        },
+        {
+          "client_id": "517070513230-sbga3lohg9hpjj702rbrl7opf3cddlp0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mou.business",
+            "certificate_hash": "5cf6c4e4f94ca4e15f2176881bca2dd8bd068fe7"
+          }
+        },
+        {
+          "client_id": "517070513230-t3ll2g7iurb9s47ouv75gdb4hvpp1um5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mou.business",
+            "certificate_hash": "2a18cd2483f0f06f64072b2ff8ab03a1f88ca2e1"
+          }
+        },
+        {
+          "client_id": "517070513230-vfpubh10o1gug2rio1je829e4biur9qf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mou.business",
+            "certificate_hash": "3b0b102f2e72cd99e5819066040221c14cc150f1"
+          }
+        },
+        {
+          "client_id": "517070513230-rfugsaggtrvmu0cjja1u44hghhqdces2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6-4JGzTpldjZBUx2W0QQyYfZf8OwjfyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "517070513230-rfugsaggtrvmu0cjja1u44hghhqdces2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "517070513230-at80ajap1jo3rufem03a96tvr16pf4cn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mou.personal",
+                "app_store_id": "1529384268"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517070513230:android:bbb1bf70489e9353d14f1f",
+        "android_client_info": {
+          "package_name": "com.mou.personal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "517070513230-74m0hbpda6ik08dcscnmf0dlb8mk55pt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mou.personal",
+            "certificate_hash": "c86fba0be5f84c5ed38d50e3c66c37033e4f4e6e"
+          }
+        },
+        {
+          "client_id": "517070513230-8km6ra6quak0jm953i75elc9thoriu95.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mou.personal",
+            "certificate_hash": "3b0b102f2e72cd99e5819066040221c14cc150f1"
+          }
+        },
+        {
+          "client_id": "517070513230-bun0ganj7ag0fjf2gs283majpuqecn73.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mou.personal",
+            "certificate_hash": "c0997154d01167611cc420b4d05579093b252c1b"
+          }
+        },
+        {
+          "client_id": "517070513230-fluqck1hrsn2dpj2q56a927n83eme57c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mou.personal",
+            "certificate_hash": "2efac8b5c04fd7c9ebf3747e47cfd4ecdf44c843"
+          }
+        },
+        {
+          "client_id": "517070513230-ga8tipmn70kbf00vrfsiigfjmthi3bvq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mou.personal",
+            "certificate_hash": "5cf6c4e4f94ca4e15f2176881bca2dd8bd068fe7"
+          }
+        },
+        {
+          "client_id": "517070513230-jigpftkhl8ut1ftrc2jp2jqj0n958kfn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mou.personal",
+            "certificate_hash": "4649d8cc224be297d28759fd520fd4c200c90e62"
+          }
+        },
+        {
+          "client_id": "517070513230-mphe8to3kfh5gk3k0mksvurac7n12ubi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mou.personal",
+            "certificate_hash": "61f4f7cb5aeca066e257d0dfa596494d2bfe311d"
+          }
+        },
+        {
+          "client_id": "517070513230-npkgfj50anrmcd8drprhoboi7vg866kl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mou.personal",
+            "certificate_hash": "2b888d91f0a0787986619ed2a43061ed7022a2b7"
+          }
+        },
+        {
+          "client_id": "517070513230-oo87adr2q9nok6inhu5usctee65298e3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mou.personal",
+            "certificate_hash": "d5892b9540a1318291f7fb28c767960965786e18"
+          }
+        },
+        {
+          "client_id": "517070513230-p0qh6sp1h9lq5ug3ej6sqoklvcto4a2p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mou.personal",
+            "certificate_hash": "a752c8992f8125e5d684e420fa89f66ca2f78f9d"
+          }
+        },
+        {
+          "client_id": "517070513230-rdtjalqlj7q3a0ttrqrshsos0fm2hcj4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mou.personal",
+            "certificate_hash": "bc349193da5109b70569b6f16c3e8e87c8cfe7e0"
+          }
+        },
+        {
+          "client_id": "517070513230-vvv2t8lcuvemeods7hcelbv0h0f6p5j7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mou.personal",
+            "certificate_hash": "2a18cd2483f0f06f64072b2ff8ab03a1f88ca2e1"
+          }
+        },
+        {
+          "client_id": "517070513230-rfugsaggtrvmu0cjja1u44hghhqdces2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6-4JGzTpldjZBUx2W0QQyYfZf8OwjfyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "517070513230-rfugsaggtrvmu0cjja1u44hghhqdces2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "517070513230-at80ajap1jo3rufem03a96tvr16pf4cn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mou.personal",
+                "app_store_id": "1529384268"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

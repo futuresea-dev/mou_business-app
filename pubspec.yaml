@@ -1,0 +1,158 @@
+name: mou_business_app
+description: A new Flutter application.
+
+# The following defines the version and build number for your application.
+# A version number is three numbers separated by dots, like 1.2.43
+# followed by an optional build number separated by a +.
+# Both the version and the builder number may be overridden in flutter
+# build by specifying --build-name and --build-number, respectively.
+# In Android, build-name is used as versionName while build-number used as versionCode.
+# Read more about Android versioning at https://developer.android.com/studio/publish/versioning
+# In iOS, build-name is used as CFBundleShortVersionString while build-number used as CFBundleVersion.
+# Read more about iOS versioning at
+# https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
+version: 1.1.1+1136
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+  flutter: ">=3.10.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+
+  drift: ^2.11.1
+  drift_sqflite: ^2.0.1
+
+  cupertino_icons: ^1.0.6
+  json_annotation: ^4.8.1
+
+  toast: ^0.3.0
+  path: ^1.6.4
+  flutter_custom_clippers: ^2.1.0
+
+  clipboard: ^0.1.2+8
+  flutter_device_type: ^0.4.0
+  pin_code_fields: ^8.0.1
+
+  # Animation
+  lottie: ^2.6.0
+  animation_list: ^3.0.0
+
+  provider: ^6.0.5
+  rxdart: ^0.27.7
+  dio: ^5.3.2
+  http: ^1.1.0
+  date_utilities: ^0.1.0-dev-7
+  image_cropper: ^5.0.0
+  image_picker: ^1.0.2
+  path_provider: ^2.1.1
+  connectivity_plus: 5.0.2
+  table_calendar: ^3.0.4
+  url_launcher: ^6.1.13
+  permission_handler: ^10.4.3
+  loading_animation_widget: ^1.2.0+4
+
+  flutter_html_to_pdf: ^0.7.0
+  flutter_keyboard_visibility: ^5.4.1
+
+  rx_shared_preferences: ^3.1.0
+  shared_preferences: ^2.2.0
+
+  # Image
+  image: ^4.0.17
+
+  #Firebase
+  firebase_core: 2.24.2
+  firebase_auth: 4.15.3
+  firebase_dynamic_links: 5.4.8
+  firebase_messaging: 14.7.9
+  firebase_crashlytics: 3.4.8
+
+  flutter_local_notifications: ^16.3.3
+
+  intl: ^0.19.0
+
+  flutter_slidable: ^3.0.0
+  file_picker: ^5.3.3
+  video_thumbnail: ^0.5.3
+  just_the_tooltip: ^0.0.12
+  cached_network_image: 3.3.1
+  smooth_page_indicator: ^1.1.0
+  collection: ^1.17.1
+  flutter_svg: ^2.0.9
+
+  flutter_bounceable: ^1.1.0
+
+  # Purchases
+  purchases_flutter: 6.5.0
+
+  # Downloads
+  flutter_downloader: ^1.11.6
+  device_info_plus: ^9.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  build_runner: ^2.4.8
+  drift_dev: ^2.2.0+1
+  json_serializable: ^6.6.2
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter.
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/data.json
+    - assets/
+    - assets/images/
+    - locale/
+    - assets/fonts/
+    - assets/flags/
+    - assets/public/
+    - assets/anim/
+
+  # An image asset can refer to one or more resolution-specific "variants", see
+  # https://flutter.dev/assets-and-images/#resolution-aware.
+
+  # For details regarding adding assets from package dependencies, see
+  # https://flutter.dev/assets-and-images/#from-packages
+
+  # To add custom fonts to your application, add a fonts section here,
+  # in this "flutter" section. Each entry in this list should have a
+  # "family" key with the font family name, and a "fonts" key with a
+  # list giving the asset and other descriptors for the font. For
+  # example:
+  fonts:
+    - family: Quicksand
+      fonts:
+        - asset: assets/fonts/Quicksand-Light.ttf
+          weight: 300
+        - asset: assets/fonts/Quicksand-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/Quicksand-Italic.ttf
+          weight: 400
+          style: italic
+        - asset: assets/fonts/Quicksand-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/Quicksand-Bold.ttf
+          weight: 700
+
+    - family: AppIcons
+      fonts:
+        - asset: assets/fonts/App-Icons.ttf
+          weight: 400
+  #
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.dev/custom-fonts/#from-packages

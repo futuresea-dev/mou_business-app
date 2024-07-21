@@ -1,0 +1,118 @@
+{
+  "identifier" : "DBDEBF82",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+
+  ],
+  "settings" : {
+
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "2E1E199A",
+      "localizations" : [
+
+      ],
+      "name" : "management",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "0.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "1CCEEE48",
+          "introductoryOffer" : {
+            "internalID" : "8BC6A076",
+            "paymentMode" : "free",
+            "subscriptionPeriod" : "P1M"
+          },
+          "localizations" : [
+            {
+              "description" : "",
+              "displayName" : "",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "add_1_user",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "Add 1 user",
+          "subscriptionGroupID" : "2E1E199A",
+          "type" : "RecurringSubscription"
+        },
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "1.99",
+          "familyShareable" : false,
+          "groupNumber" : 2,
+          "internalID" : "3C7084CB",
+          "introductoryOffer" : {
+            "internalID" : "63893C1D",
+            "paymentMode" : "free",
+            "subscriptionPeriod" : "P1M"
+          },
+          "localizations" : [
+            {
+              "description" : "",
+              "displayName" : "",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "add_2_users",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "Add 2 users",
+          "subscriptionGroupID" : "2E1E199A",
+          "type" : "RecurringSubscription"
+        },
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "2.99",
+          "familyShareable" : false,
+          "groupNumber" : 3,
+          "internalID" : "1965314C",
+          "introductoryOffer" : {
+            "internalID" : "8E7948C7",
+            "paymentMode" : "free",
+            "subscriptionPeriod" : "P1M"
+          },
+          "localizations" : [
+            {
+              "description" : "",
+              "displayName" : "",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "add_3_users",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "Add 3 users",
+          "subscriptionGroupID" : "2E1E199A",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "subscriptionOffersKeyPair" : {
+    "id" : "E919A8AB",
+    "privateKey" : "MIGTAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBHkwdwIBAQQgW1VaQgyQXCB/5psunMnolMWDc7o8a1qLVxlGg4TKqwqgCgYIKoZIzj0DAQehRANCAATBH3D1IhLMvOtUH9R/EamaXClOWMlhku5Bl5QPZXf9Q3G0/tNTMRsj9u55ljj+yzv8cSTrZwNRHnbuQhhdgnHS"
+  },
+  "version" : {
+    "major" : 2,
+    "minor" : 0
+  }
+}
