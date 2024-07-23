@@ -1,5 +1,5 @@
 class AppApis {
-  static const String domainAPI = "http://api.mou.center";
+  static const String domainAPI = "http://apimou.site/public";
 
   static String register() => "/api/v1/business/register-company";
 
